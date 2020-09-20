@@ -1,0 +1,12 @@
+{
+    "name": "alexnguetcha/json-to-class-cli",
+    "description": "generate a php class model via cli.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "alexnguetcha",
+            "email": "nguetchaalex@gmail.com"
+        }
+    ],
+    "require": {}
+}
